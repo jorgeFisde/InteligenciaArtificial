@@ -1,5 +1,5 @@
 /**
-    Jorge Fisher
+    Jorge Fischer
 */
 
 const limit = 20,array = []
