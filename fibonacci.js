@@ -1,3 +1,7 @@
+/**
+    Jorge Fisher
+*/
+
 const limit = 20,array = []
 
 function serieFibonacci(params) {// PARAMS ES EL NUMERO DE LA SERIE QUE DESEA MOSTRAR
