@@ -7,4 +7,4 @@ function cambio() {
     return 'aqui se hace el cambo machin o k';
 }
 
-cambio();
+console.log(cambio());
